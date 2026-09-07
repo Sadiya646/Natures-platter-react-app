@@ -2,7 +2,7 @@ import BannerImage from '../assets/Hero Section 1.png';
 
 const Banner = () => {
     return (
-  <div className='text-center'>
+  <div className='text-center bg-gray-200'>
          <div className=' mx-auto py-6'>
             <h1 className="text-6xl font-bold ">Freshness <span className="text-green-500">You Can <br />
                 Count</span> On, Prices You’ll Love!</h1>
